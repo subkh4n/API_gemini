@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Clone",
+  "description": "A high-fidelity Gemini-style chat interface with full AI capabilities, optimized for a clean experience with history and 'my stuff' removed as requested.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
